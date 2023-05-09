@@ -7,6 +7,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         while (true){
             System.out.println("Wähle eine Auswahlmöglichkeit");
+            // this is a test!
             System.out.println("1.Miner");
             System.out.println("2.Inventar betrachten");
             System.out.println("Bitte schreibe 1 oder 2");
